@@ -108,7 +108,8 @@ Repok is a complete booking system that helps players browse courts, select time
 - Analytics dashboard for revenue, bookings, utilization, and peak hours
 - Email confirmation after successful booking payment
 
-[View Repository](https://github.com/yuann1020/Repok)
+[Live Demo](https://repok-rpc.vercel.app/)  
+[View Repository](https://github.com/yuann1020/Repok_PickleballCourtBookingSystem)
 
 ---
 
