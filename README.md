@@ -217,18 +217,6 @@ I like building projects that are:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuann1020&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuann1020&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Contact
 
 - GitHub: [yuann1020](https://github.com/yuann1020)
