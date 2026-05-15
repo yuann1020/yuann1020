@@ -13,10 +13,6 @@ I build practical, demo-ready software products with clean UI, secure backend ar
     <strong>Portfolio</strong>
   </a>
   ·
-  <a href="https://github.com/yuann1020">
-    <strong>GitHub</strong>
-  </a>
-  ·
   <a href="https://www.linkedin.com/in/louis-lau-b64577401/">
     <strong>LinkedIn</strong>
   </a>
