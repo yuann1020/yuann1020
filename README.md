@@ -1,15 +1,30 @@
-<div align="center">
+<h1 align="center">Hi, I'm Louis Lau Sie Yuan 👋</h1>
 
-# Hi, I'm Louis Lau Sie Yuan 👋
+<h3 align="center">
+Computer Science Student @ University of Malaya · Full-Stack Developer · Mobile / AI Developer
+</h3>
 
-### Computer Science Student · Full-Stack Developer · AI Product Builder
+<p align="center">
+I build practical, demo-ready software products with clean UI, secure backend architecture, database-driven workflows, and real AI integration.
+</p>
 
-I build practical, demo-ready software products with clean UI, secure backend architecture, and real AI integration.
-
-[![GitHub](https://img.shields.io/badge/GitHub-yuann1020-181717?style=for-the-badge&logo=github)](https://github.com/yuann1020)
-[![Email](https://img.shields.io/badge/Email-louislausieyuan2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louislausieyuan2005@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://louis-portfolio-red.vercel.app">
+    <strong>Portfolio</strong>
+  </a>
+  ·
+  <a href="https://github.com/yuann1020">
+    <strong>GitHub</strong>
+  </a>
+  ·
+  <a href="https://www.linkedin.com/in/louis-lau-b64577401/">
+    <strong>LinkedIn</strong>
+  </a>
+  ·
+  <a href="mailto:louislausieyuan2005@gmail.com">
+    <strong>Email</strong>
+  </a>
+</p>
 
 ---
 
@@ -19,7 +34,7 @@ I'm a Year 2 Computer Science student at **University of Malaya (UM)** with a fo
 
 I enjoy turning ideas into working products. My focus is not only writing code, but building complete systems: frontend experience, backend logic, database structure, authentication, security, AI integration, and presentation-ready documentation.
 
-```txt
+```text
 Current focus:
 - Full-stack web development
 - Mobile app development
